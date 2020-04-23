@@ -1,6 +1,6 @@
-# Project Title
+# Market Research with Crunchbase and Automata
 
-Market research on newly funded startups with the Crunchbase and Automata Market Intelligence APIs
+Market research on newly funded startups with the Crunchbase and Automata Market Intelligence APIs via RapidAPI
 
 ## Getting Started
 
